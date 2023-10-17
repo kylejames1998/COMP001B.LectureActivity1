@@ -1,3 +1,22 @@
 body {
     color: aquamarine;
 }
+
+.heading {
+    padding: .5em;
+    color: green;
+}
+
+#lorem {
+    padding: .75em;
+    color: brown;
+}
+
+a:hover {
+    text-decoration: none;
+}
+
+p::first-line {
+    font-size: 120%;
+
+}
