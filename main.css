@@ -21,3 +21,8 @@ p::first-line {
     font-size: 120%;
 
 }
+
+button:hover {
+    color: blue;
+    background-color: black;
+}
