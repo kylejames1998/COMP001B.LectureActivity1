@@ -26,3 +26,8 @@ button:hover {
     color: blue;
     background-color: black;
 }
+
+button {
+    padding: .5em;
+    margin-top: .5em;
+}
